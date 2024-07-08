@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img{
+    width:1320px;
+    height:600px;
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('/images/Banner\ Image.png');
+    margin:20px auto;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    border-radius: 16px;
+}
+.img div{
+    height: 243px;
+    width: 632px;
+    margin:30px auto;
+    text-align: center;
+    padding-top:177px;
+    /* perspective-origin: 2; */
+}
+/* .ta{
+    width:1320px;
+    margin: 100px auto;
+    text-align: center;
+} */
+.img div h3{
+    font-size: 32px;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 20px;
+    font-weight: 300;
+}
+.img div h1{
+    font-size: 72px;
+    color: rgba(255, 255, 255, 1);
+    line-height: 95px;
+    letter-spacing: 0%;
+}
+.two{
+    width: 803px;
+    height: 806px;
+    margin:100px auto;
+    text-align: center;
+}
+.two h1{
+    font-size: 88px;
+    font-weight: 700;
+    color: red;
+    padding-bottom: 30px;
+}
+.two h6{
+    font-size: 24px;
+    color: red;
+    font-weight: 500;
+}
+.two h2{
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.two img{
+    width: 803px;
+    height: 500px;
+}
+.three{
+
+    width:1320px;
+    height:600px;
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('/images/Vectorrr.png');
+    margin:20px auto;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    border-radius: 16px;
+
+}
+.title h1{
+    font-size: 64px;
+    font-weight: 600;
+    color: white;
+    padding-top: 150px;
+}
+.title p{
+    opacity: 0.6;
+    font-size: 18px;
+    /* line-height: 30px; */
+    color: rgba(255, 255, 255, 0.8);
+    padding-top: 30px;
+}
+.title{
+    display: flex;
+    justify-content:space-between;
+    align-items: start;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 100px;  
+}
+.b{
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-left: 17px;
+
+}
+
