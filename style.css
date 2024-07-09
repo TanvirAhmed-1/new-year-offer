@@ -5,7 +5,7 @@
 .img{
     width:1320px;
     height:600px;
-    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('/images/Banner\ Image.png');
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('./images/Banner\ Image.png');
     margin:20px auto;
     background-size: cover; 
     background-repeat: no-repeat;
@@ -66,7 +66,7 @@
 
     width:1320px;
     height:600px;
-    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('/images/Vectorrr.png');
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('./images/Vectorrr.png');
     margin:20px auto;
     background-size: cover; 
     background-repeat: no-repeat;
